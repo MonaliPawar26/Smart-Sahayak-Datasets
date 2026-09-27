@@ -1,0 +1,480 @@
+{
+  "S01": [
+    {
+      "robot_id": "AMR01",
+      "scenario_id": "S01",
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "battery": 95,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-01 (Titan)",
+      "color": "#3B82F6"
+    },
+    {
+      "robot_id": "AMR02",
+      "scenario_id": "S01",
+      "position": {
+        "x": 45,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-02 (Aegis)",
+      "color": "#10B981"
+    },
+    {
+      "robot_id": "AMR03",
+      "scenario_id": "S01",
+      "position": {
+        "x": 2,
+        "y": 25
+      },
+      "battery": 88,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-03 (Atlas)",
+      "color": "#F59E0B"
+    }
+  ],
+  "S02": [
+    {
+      "robot_id": "AMR01",
+      "scenario_id": "S02",
+      "position": {
+        "x": 2,
+        "y": 13
+      },
+      "battery": 92,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-01 (Titan)",
+      "color": "#3B82F6"
+    },
+    {
+      "robot_id": "AMR02",
+      "scenario_id": "S02",
+      "position": {
+        "x": 45,
+        "y": 13
+      },
+      "battery": 88,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-02 (Aegis)",
+      "color": "#10B981"
+    },
+    {
+      "robot_id": "AMR03",
+      "scenario_id": "S02",
+      "position": {
+        "x": 23,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-03 (Atlas)",
+      "color": "#F59E0B"
+    }
+  ],
+  "S03": [
+    {
+      "robot_id": "AMR01",
+      "scenario_id": "S03",
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-01 (Titan)",
+      "color": "#3B82F6"
+    },
+    {
+      "robot_id": "AMR02",
+      "scenario_id": "S03",
+      "position": {
+        "x": 45,
+        "y": 2
+      },
+      "battery": 85,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-02 (Aegis)",
+      "color": "#10B981"
+    },
+    {
+      "robot_id": "AMR03",
+      "scenario_id": "S03",
+      "position": {
+        "x": 2,
+        "y": 25
+      },
+      "battery": 87,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-03 (Atlas)",
+      "color": "#F59E0B"
+    },
+    {
+      "robot_id": "AMR04",
+      "scenario_id": "S03",
+      "position": {
+        "x": 45,
+        "y": 25
+      },
+      "battery": 92,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-04 (Valkyrie)",
+      "color": "#8B5CF6"
+    }
+  ],
+  "S04": [
+    {
+      "robot_id": "AMR01",
+      "scenario_id": "S04",
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "battery": 95,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-01 (Titan)",
+      "color": "#3B82F6"
+    },
+    {
+      "robot_id": "AMR02",
+      "scenario_id": "S04",
+      "position": {
+        "x": 45,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-02 (Aegis)",
+      "color": "#10B981"
+    },
+    {
+      "robot_id": "AMR03",
+      "scenario_id": "S04",
+      "position": {
+        "x": 2,
+        "y": 25
+      },
+      "battery": 85,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-03 (Atlas)",
+      "color": "#F59E0B"
+    },
+    {
+      "robot_id": "AMR04",
+      "scenario_id": "S04",
+      "position": {
+        "x": 45,
+        "y": 25
+      },
+      "battery": 88,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-04 (Valkyrie)",
+      "color": "#8B5CF6"
+    }
+  ],
+  "S05": [
+    {
+      "robot_id": "AMR01",
+      "scenario_id": "S05",
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-01 (Titan)",
+      "color": "#3B82F6"
+    },
+    {
+      "robot_id": "AMR02",
+      "scenario_id": "S05",
+      "position": {
+        "x": 45,
+        "y": 2
+      },
+      "battery": 92,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-02 (Aegis)",
+      "color": "#10B981"
+    },
+    {
+      "robot_id": "AMR03",
+      "scenario_id": "S05",
+      "position": {
+        "x": 2,
+        "y": 25
+      },
+      "battery": 85,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-03 (Atlas)",
+      "color": "#F59E0B"
+    },
+    {
+      "robot_id": "AMR04",
+      "scenario_id": "S05",
+      "position": {
+        "x": 45,
+        "y": 25
+      },
+      "battery": 88,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-04 (Valkyrie)",
+      "color": "#8B5CF6"
+    },
+    {
+      "robot_id": "AMR05",
+      "scenario_id": "S05",
+      "position": {
+        "x": 23,
+        "y": 2
+      },
+      "battery": 94,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-05 (Zephyr)",
+      "color": "#EC4899"
+    }
+  ],
+  "S06": [
+    {
+      "robot_id": "AMR01",
+      "scenario_id": "S06",
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-01 (Titan)",
+      "color": "#3B82F6"
+    },
+    {
+      "robot_id": "AMR02",
+      "scenario_id": "S06",
+      "position": {
+        "x": 45,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-02 (Aegis)",
+      "color": "#10B981"
+    },
+    {
+      "robot_id": "AMR03",
+      "scenario_id": "S06",
+      "position": {
+        "x": 2,
+        "y": 25
+      },
+      "battery": 85,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-03 (Atlas)",
+      "color": "#F59E0B"
+    },
+    {
+      "robot_id": "AMR04",
+      "scenario_id": "S06",
+      "position": {
+        "x": 45,
+        "y": 25
+      },
+      "battery": 88,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-04 (Valkyrie)",
+      "color": "#8B5CF6"
+    }
+  ],
+  "S07": [
+    {
+      "robot_id": "AMR01",
+      "scenario_id": "S07",
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-01 (Titan)",
+      "color": "#3B82F6"
+    },
+    {
+      "robot_id": "AMR02",
+      "scenario_id": "S07",
+      "position": {
+        "x": 45,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-02 (Aegis)",
+      "color": "#10B981"
+    },
+    {
+      "robot_id": "AMR03",
+      "scenario_id": "S07",
+      "position": {
+        "x": 2,
+        "y": 25
+      },
+      "battery": 85,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-03 (Atlas)",
+      "color": "#F59E0B"
+    },
+    {
+      "robot_id": "AMR04",
+      "scenario_id": "S07",
+      "position": {
+        "x": 45,
+        "y": 25
+      },
+      "battery": 88,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-04 (Valkyrie)",
+      "color": "#8B5CF6"
+    }
+  ],
+  "S08": [
+    {
+      "robot_id": "AMR01",
+      "scenario_id": "S08",
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "battery": 95,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-01 (Titan)",
+      "color": "#3B82F6"
+    },
+    {
+      "robot_id": "AMR02",
+      "scenario_id": "S08",
+      "position": {
+        "x": 45,
+        "y": 2
+      },
+      "battery": 90,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-02 (Aegis)",
+      "color": "#10B981"
+    },
+    {
+      "robot_id": "AMR03",
+      "scenario_id": "S08",
+      "position": {
+        "x": 2,
+        "y": 25
+      },
+      "battery": 88,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-03 (Atlas)",
+      "color": "#F59E0B"
+    },
+    {
+      "robot_id": "AMR04",
+      "scenario_id": "S08",
+      "position": {
+        "x": 45,
+        "y": 25
+      },
+      "battery": 92,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-04 (Valkyrie)",
+      "color": "#8B5CF6"
+    },
+    {
+      "robot_id": "AMR05",
+      "scenario_id": "S08",
+      "position": {
+        "x": 23,
+        "y": 2
+      },
+      "battery": 91,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-05 (Zephyr)",
+      "color": "#EC4899"
+    },
+    {
+      "robot_id": "AMR06",
+      "scenario_id": "S08",
+      "position": {
+        "x": 23,
+        "y": 25
+      },
+      "battery": 89,
+      "status": "idle",
+      "current_task": null,
+      "speed": 1,
+      "name": "AMR-06 (Orion)",
+      "color": "#06B6D4"
+    }
+  ]
+}

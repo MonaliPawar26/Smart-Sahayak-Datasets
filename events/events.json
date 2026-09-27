@@ -1,0 +1,64 @@
+{
+  "S01": [],
+  "S02": [],
+  "S03": [],
+  "S04": [
+    {
+      "scenario_id": "S04",
+      "step": 70,
+      "triggerTime": 15,
+      "event_type": "blocked_aisle",
+      "location": "Aisle-04",
+      "gridCoord": {
+        "x": 23,
+        "y": 13
+      },
+      "source_robot": "AMR02"
+    }
+  ],
+  "S05": [
+    {
+      "scenario_id": "S05",
+      "step": 60,
+      "triggerTime": 12,
+      "event_type": "blocked_aisle",
+      "location": "Aisle-02",
+      "gridCoord": {
+        "x": 12,
+        "y": 13
+      },
+      "source_robot": "AMR01"
+    },
+    {
+      "scenario_id": "S05",
+      "step": 120,
+      "triggerTime": 25,
+      "event_type": "blocked_aisle",
+      "location": "Aisle-05",
+      "gridCoord": {
+        "x": 34,
+        "y": 13
+      },
+      "source_robot": "AMR03"
+    }
+  ],
+  "S06": [
+    {
+      "scenario_id": "S06",
+      "step": 75,
+      "triggerTime": 15,
+      "event_type": "robot_failure",
+      "source_robot": "AMR03"
+    }
+  ],
+  "S07": [
+    {
+      "scenario_id": "S07",
+      "step": 75,
+      "triggerTime": 15,
+      "event_type": "network_degradation",
+      "duration": 20
+    }
+  ],
+  "S08": []
+}
